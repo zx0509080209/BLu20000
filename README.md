@@ -361,4 +361,4 @@ We welcome all friends who are interested in decentralized exchanges, zk-SNARK, 
 ## License
 Copyright 2023 © Gate Technology Inc.. All rights reserved.
 
-Licensed under the GPLv3 license.
+Licensed under the GPLv3 license.&
