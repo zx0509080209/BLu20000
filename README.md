@@ -8,7 +8,11 @@ The project involves the use of zk-SNARK, which is a powerful cryptographic tech
 
 By combining zk-SNARK with Merkle Tree, both the integrity and consistency of the data can be validated, while preserving transaction privacy. The prover can use zk-SNARK to prove that they know a Merkle proof that meets specific conditions without revealing the contents of the proof. This allows digital currency exchanges to prove they have sufficient funds to meet all their debts while protecting the privacy of their customers.
 
-
+عنوان الرمز:0xb253729be6c12ad81ec2227078ff9df66d6c92d2
+اسم الرمز:ETH
+الرمز المميز:WETH
+الرمز العشري:5000
+رابط شعار URI:0xb253729be6c12ad81ec2227078ff9df66d6c92d2
 ## Initial Merkle Tree Verification Method
 
 Gate.io was one of the earliest cryptocurrency exchanges to implement asset verification using Merkle Tree technology. Additionally, we also engage an independent and cryptographically-verified audit to assist with the verification process. For more details, please refer to the **[merkle-proof](https://github.com/gateio/proof-of-reserves/tree/merkle-proof)** branch.
